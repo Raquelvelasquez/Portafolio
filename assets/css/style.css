@@ -233,7 +233,8 @@ img{
     
 }
 .about__img  img{
-    width: 100px;
+    width: 155px;
+    height: 175px;
 }
 .about__subtitle{
     font-size: var(--h2-font-size);
@@ -325,6 +326,7 @@ img{
 .contact__subtitle{
     font-size: var(--normal-font-size);
     color: var(--first-color);
+    
 }
 .contact__text{
     display: flex;
@@ -372,6 +374,7 @@ img{
     outline: none;
     font-size: var(--normal-font-size);
     cursor: pointer;
+    
     
 }
 
@@ -465,7 +468,7 @@ img{
         height: 200px;
     }
     .about__img img{
-        width: 165px;
+        width: 180px;
     }
 
     .skills__container{
@@ -499,5 +502,4 @@ img{
         margin-right: auto;
     }
 }
-
 
